@@ -1,0 +1,7 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,pyroengraved-gourd-with,0.5,0.5,1,,What are the materials used to create this object?,"Maybe clay, paint, and a small tool to engrave with. Probably fire as well to harden the object.",,,,,,,,
+2,pyroengraved-gourd-with,0.5607205419736809,0.5504518486594137,2.0736,,"What are these images, and what do they represent?",They look like tigers or spotted animals. Chavin-style imagery.,,,,,,,,
+3,pyroengraved-gourd-with,0.5,0.5,1,,What was this object used for?,"It looks like a bowl, so it could have been used for meals or holding items decoratively.",,,,,,,,
+4,pyroengraved-gourd-with,0.5006364208778982,0.5164927038574474,1.2,,Were more than one of these objects created?,"Possibly, but we don't know if any more exist. There usually weren't multiples of objects made or recovered at least.",,,,,,,,
+5,pyroengraved-gourd-with,0.5,0.5,1,,What was the audience of people using this object?,,,,,,,,,
